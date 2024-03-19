@@ -5,7 +5,7 @@
 - 👀 I’m interested in Physics and learning programming for the same
 - 🌱 I’m currently a senior Undergrad student of Physics and Mathematics
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: shivadwivedi988@gmail.com
+- 📫 How to reach me: shivakant.dwivedi@pme.christuniversity.in
 - 💞️ I'm looking to collaborate for creating interactive tools for learning Physics
 
 

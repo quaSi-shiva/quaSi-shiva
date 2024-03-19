@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/quasi_shiva/"><img src="https://img.shields.io/badge/Instagram-_?style=for-the-badge&logo=Instagram&logoColor=white&label=quasi_shiva&color=%23d62976&link=https%3A%2F%2Fwww.instagram.com%2Fquasi_shiva%2F" height=25></a> 
 <a href="shivadwivedi988@gmail.com"><img src="https://img.shields.io/badge/E_mail-_?style=for-the-badge&logo=Gmail&logoColor=%23c71610&color=white&link=shivadwivedi988%40gmail.com" height=25></a> 
 <a href="https://www.researchgate.net/profile/Shiva-Dwivedi-2"><img src="https://img.shields.io/badge/Research%20Gate-you_?style=for-the-badge&logo=ResearchGate&logoColor=black&color=white&link=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FShiva-Dwivedi-2" height=25></a> 
-<a href="[https://drive.google.com/file/d/1W9R9fryOLh_BclqRXE7KxFobfwVwyNSJ/view?usp=sharing](https://drive.google.com/file/d/1j-ggLogwjEcT_rSRiDbtz5Xg--Vfjd_O/view?usp=drive_link)"><img src="https://img.shields.io/badge/R-_?logo=Read.cv&logoColor=black&label=Resume&labelColor=white&color=grey&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1W9R9fryOLh_BclqRXE7KxFobfwVwyNSJ%2Fview%3Fusp%3Dsharing" height=25></a>   
+<a href="[https://drive.google.com/file/d/1j-ggLogwjEcT_rSRiDbtz5Xg--Vfjd_O/view?usp=drive_link](https://drive.google.com/file/d/1j-ggLogwjEcT_rSRiDbtz5Xg--Vfjd_O/view?usp=drive_link)"><img src="https://img.shields.io/badge/R-_?logo=Read.cv&logoColor=black&label=Resume&labelColor=white&color=grey&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1W9R9fryOLh_BclqRXE7KxFobfwVwyNSJ%2Fview%3Fusp%3Dsharing" height=25></a>   
 </p>
 
 
